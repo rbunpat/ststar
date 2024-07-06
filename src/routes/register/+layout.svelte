@@ -53,7 +53,7 @@
 				</DropdownMenu.Content>
 			</DropdownMenu.Root>
 		{:else}
-			<Button on:click={() => signIn("google")}>สมัคร/เข้าสู่ระบบ</Button>
+			<Button on:click={() => signIn("google")}>สมัคร</Button>
 		{/if}
 	</div>
 </div>
