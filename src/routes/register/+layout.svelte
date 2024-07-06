@@ -13,7 +13,7 @@
 	<div
 		class="mx-auto flex max-w-screen-lg flex-wrap items-center justify-between rounded-2xl bg-pink-200 bg-opacity-40 p-4 backdrop-blur-md"
 	>
-		<a href="/" class="mr-5 flex items-center space-x-3 sm:mr-10 md:mr-96">
+		<a href="/" class="mr-5 flex items-center space-x-3 sm:mr-6 md:mr-96">
 			<div class="">
 				<Avatar.Root>
 					<Avatar.Image src="/logo.jpg" alt="@ststar.challenge" />
@@ -29,7 +29,7 @@
 			<DropdownMenu.Root>
 				<DropdownMenu.Trigger>
 					<Button>
-						<Avatar.Root class="h-7 w-7 mr-2">
+						<Avatar.Root class="h-7 w-7 md:mr-2">
 							<Avatar.Image src="{data.session?.user?.image}" alt="@ststar.challenge"/>
 							<Avatar.Fallback>ST</Avatar.Fallback>
 						</Avatar.Root>
