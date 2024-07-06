@@ -29,7 +29,7 @@
 			<DropdownMenu.Root>
 				<DropdownMenu.Trigger>
 					<Button>
-						<Avatar.Root class="h-7 w-7 md:mr-2">
+						<Avatar.Root class="h-7 w-7 hidden md:block md:mr-2">
 							<Avatar.Image src="{data.session?.user?.image}" alt="@ststar.challenge"/>
 							<Avatar.Fallback>ST</Avatar.Fallback>
 						</Avatar.Root>
