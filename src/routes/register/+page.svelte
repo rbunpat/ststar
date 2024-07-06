@@ -60,55 +60,5 @@
 				</div>
 			</div>
 		</div>
-		<div class="flex flex-col">
-			<div class="w-full py-24 md:py-32 lg:py-40">
-				<div class="container px-4 text-center text-primary md:px-6">
-					<h1 class="text-4xl font-bold tracking-tight md:text-5xl lg:text-6xl">
-						ST Star Challenge 16
-					</h1>
-					<p class="mt-4 text-lg md:text-xl lg:text-2xl">June 15th, 2024 | Suratthani School</p>
-				</div>
-			</div>
-		</div>
-		<div class="flex flex-col">
-			<div class="w-full py-24 md:py-32 lg:py-40">
-				<div class="container px-4 text-center text-primary md:px-6">
-					<h1 class="text-4xl font-bold tracking-tight md:text-5xl lg:text-6xl">
-						ST Star Challenge 16
-					</h1>
-					<p class="mt-4 text-lg md:text-xl lg:text-2xl">June 15th, 2024 | Suratthani School</p>
-				</div>
-			</div>
-		</div>
-		<div class="flex flex-col">
-			<div class="w-full py-24 md:py-32 lg:py-40">
-				<div class="container px-4 text-center text-primary md:px-6">
-					<h1 class="text-4xl font-bold tracking-tight md:text-5xl lg:text-6xl">
-						ST Star Challenge 16
-					</h1>
-					<p class="mt-4 text-lg md:text-xl lg:text-2xl">June 15th, 2024 | Suratthani School</p>
-				</div>
-			</div>
-		</div>
-		<div class="flex flex-col">
-			<div class="w-full py-24 md:py-32 lg:py-40">
-				<div class="container px-4 text-center text-primary md:px-6">
-					<h1 class="text-4xl font-bold tracking-tight md:text-5xl lg:text-6xl">
-						ST Star Challenge 16
-					</h1>
-					<p class="mt-4 text-lg md:text-xl lg:text-2xl">June 15th, 2024 | Suratthani School</p>
-				</div>
-			</div>
-		</div>
-		<div class="flex flex-col">
-			<div class="w-full py-24 md:py-32 lg:py-40">
-				<div class="container px-4 text-center text-primary md:px-6">
-					<h1 class="text-4xl font-bold tracking-tight md:text-5xl lg:text-6xl">
-						ST Star Challenge 16
-					</h1>
-					<p class="mt-4 text-lg md:text-xl lg:text-2xl">June 15th, 2024 | Suratthani School</p>
-				</div>
-			</div>
-		</div>
 	{/if}
 </div>
