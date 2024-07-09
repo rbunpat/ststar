@@ -145,7 +145,6 @@
 					onprocessfiles={saveImage}
 					bind:this={pond}
 					{name}
-					files={[{ source: placeholderImageUrl, options: { type: 'local' } }]}
 					server={{
 						process: async function (fieldName, file, metadata, load, error, progress, abort) {
 							const getPresignedUrlResponse = await fetch('/api/upload', {
